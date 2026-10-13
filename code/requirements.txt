@@ -1,0 +1,13 @@
+openai>=1.0
+httpx
+tqdm
+numpy
+pandas
+scikit-learn
+scipy
+python-Levenshtein
+openpyxl
+pyyaml
+krippendorff
+matplotlib
+seaborn

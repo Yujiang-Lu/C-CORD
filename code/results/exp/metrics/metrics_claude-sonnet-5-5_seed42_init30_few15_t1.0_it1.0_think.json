@@ -1,0 +1,124 @@
+{
+  "total_samples": 511,
+  "parse_successes": 511,
+  "parse_failures": 0,
+  "parse_failures_idxes": [],
+  "results": {
+    "hard": {
+      "location": 0.618282595312928,
+      "classification": {
+        "rhetoric": {
+          "accuracy": 0.4062444404910158,
+          "precision": 0.5155980054952658,
+          "recall": 0.47048979097658156,
+          "f1": 0.482029822029822
+        },
+        "form": {
+          "accuracy": 0.3605124490643082,
+          "precision": 0.46738255493147857,
+          "recall": 0.4235945031810981,
+          "f1": 0.4346639868068439
+        },
+        "content": {
+          "accuracy": 0.3566839770362275,
+          "precision": 0.44857994256233,
+          "recall": 0.409457307206818,
+          "f1": 0.41913188355458414
+        }
+      },
+      "component": {
+        "conjunction": {
+          "content_sim": 0.48054072417867283,
+          "position_iou": 0.37436362374049986
+        },
+        "tenor": {
+          "content_sim": 0.4655525345359756,
+          "position_iou": 0.4213047531616734
+        },
+        "vehicle": {
+          "content_sim": 0.4568333362214262,
+          "position_iou": 0.387206444968916
+        }
+      }
+    },
+    "soft": {
+      "location": 0.6445093574410194,
+      "classification": {
+        "rhetoric": {
+          "accuracy": 0.4248888162382202,
+          "precision": 0.5403193422607228,
+          "recall": 0.4979952180628217,
+          "f1": 0.5071892284929703
+        },
+        "form": {
+          "accuracy": 0.37063965704776947,
+          "precision": 0.48380723347366295,
+          "recall": 0.4424966695358974,
+          "f1": 0.45127272725846523
+        },
+        "content": {
+          "accuracy": 0.36736472920425955,
+          "precision": 0.4649376181910428,
+          "recall": 0.4276951322939581,
+          "f1": 0.43574133532385323
+        }
+      },
+      "component": {
+        "conjunction": {
+          "content_sim": 0.511771549831617,
+          "position_iou": 0.3970328626854272
+        },
+        "tenor": {
+          "content_sim": 0.48917619992309125,
+          "position_iou": 0.44199008918933186
+        },
+        "vehicle": {
+          "content_sim": 0.4747195653488927,
+          "position_iou": 0.39484364176734865
+        }
+      }
+    },
+    "free": {
+      "location": 0.6552380852714684,
+      "classification": {
+        "rhetoric": {
+          "accuracy": 0.38943248532289626,
+          "precision": 0.6470971950424005,
+          "recall": 0.5609371602522288,
+          "f1": 0.5834474179875354
+        },
+        "form": {
+          "accuracy": 0.3268101761252446,
+          "precision": 0.5734833659491193,
+          "recall": 0.4903162178113254,
+          "f1": 0.5101478158718863
+        },
+        "content": {
+          "accuracy": 0.33072407045009783,
+          "precision": 0.5560991519895628,
+          "recall": 0.4781124778678595,
+          "f1": 0.497869101978691
+        }
+      },
+      "krippendorff_alpha": {
+        "rhetoric": 0.5252733156984735,
+        "form": 0.45729210274191334,
+        "content": 0.4500732173651887
+      },
+      "component": {
+        "conjunction": {
+          "content_sim": 0.6011177139377605,
+          "position_iou": 0.445274653057533
+        },
+        "tenor": {
+          "content_sim": 0.5939067997909804,
+          "position_iou": 0.5395032503435562
+        },
+        "vehicle": {
+          "content_sim": 0.5047815524307798,
+          "position_iou": 0.432334122377178
+        }
+      }
+    }
+  }
+}

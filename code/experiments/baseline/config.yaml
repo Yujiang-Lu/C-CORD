@@ -1,0 +1,24 @@
+
+api_key: "YOUR_API_KEY"
+
+base_url: "YOUR_BASE_URL"
+
+model_name: "claude-sonnet-5-5"
+
+temperature: 1.0
+max_tokens: 32768
+num_few_shots: 15
+num_init_shots: 30
+init_temperature: 1.0
+seed: 42
+
+enable_thinking: true
+
+data_dir: "../../data/datasets_split"
+
+output_dir: "results/exp"
+
+eval_modes:
+  location: ["hard", "soft", "free"]
+  classification: ["hard", "soft", "free"]
+  component: ["hard", "soft", "free"]

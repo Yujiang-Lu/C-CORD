@@ -1,0 +1,363 @@
+[
+    {
+    "idx": 0,
+    "essay_idx": 0,
+    "document": "我有一个年纪很大，但却干过很多事的老爷爷，他的故事，说真的是十分精彩呀，他是我们村里我知道的最能干的人了！听奶奶说，在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！我的老爷爷他还当过医生，到现在，他还是一名医生，只不过是村医生，我的祖先们也都是医生，家里还有三四本祖传的手写医书呢！听爷爷说，老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。老爷爷也是电工，全村一千多人，只有他一个是电工。我记得小时候有一次老爷这要去别人家修电，我一起去了。回来时，我的脚卡在自行车轮子里了，我哇的一声大哭了出来。老爷爷一看，立刻下车，把奶奶叫来，后来把我的脚拿出来之后，老爷爷一看我的脚，都出血了，就立刻回家用纱布包了包。这就是我的老爷爷，希望他可以长寿。",
+    "sentenceList": [
+      "我有一个年纪很大，但却干过很多事的老爷爷，他的故事，说真的是十分精彩呀，他是我们村里我知道的最能干的人了！",
+      "听奶奶说，在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！",
+      "我的老爷爷他还当过医生，到现在，他还是一名医生，只不过是村医生，我的祖先们也都是医生，家里还有三四本祖传的手写医书呢！",
+      "听爷爷说，老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。",
+      "老爷爷也是电工，全村一千多人，只有他一个是电工。",
+      "我记得小时候有一次老爷这要去别人家修电，我一起去了。",
+      "回来时，我的脚卡在自行车轮子里了，我哇的一声大哭了出来。",
+      "老爷爷一看，立刻下车，把奶奶叫来，后来把我的脚拿出来之后，老爷爷一看我的脚，都出血了，就立刻回家用纱布包了包。",
+      "这就是我的老爷爷，希望他可以长寿。"
+    ],
+    "rhetoricItems": [
+      {
+        "sentenceIdx": [
+          0
+        ],
+        "sentenceContent": [
+          "我有一个年纪很大，但却干过很多事的老爷爷，他的故事，说真的是十分精彩呀，他是我们村里我知道的最能干的人了！"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "夸张",
+            "form": "直接夸张",
+            "content": "扩大夸张",
+            "conjunction": [],
+            "conjunctionBeginIdx": [],
+            "conjunctionEndIdx": [],
+            "tenor": [
+              "老爷爷"
+            ],
+            "tenorBeginIdx": [
+              17
+            ],
+            "tenorEndIdx": [
+              19
+            ],
+            "vehicle": [
+              "他是我们村里我知道的最能干的人了！"
+            ],
+            "vehicleBeginIdx": [
+              36
+            ],
+            "vehicleEndIdx": [
+              52
+            ],
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          1
+        ],
+        "sentenceContent": [
+          "听奶奶说，在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "引用",
+            "form": "转引",
+            "content": "话语",
+            "conjunction": [
+              "听奶奶说"
+            ],
+            "conjunctionBeginIdx": [
+              0
+            ],
+            "conjunctionEndIdx": [
+              3
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！"
+            ],
+            "vehicleBeginIdx": [
+              5
+            ],
+            "vehicleEndIdx": [
+              57
+            ],
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          2
+        ],
+        "sentenceContent": [
+          "我的老爷爷他还当过医生，到现在，他还是一名医生，只不过是村医生，我的祖先们也都是医生，家里还有三四本祖传的手写医书呢！"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "反复",
+            "form": "间隔反复",
+            "content": "词语",
+            "conjunction": [
+              "医生"
+            ],
+            "conjunctionBeginIdx": [
+              9
+            ],
+            "conjunctionEndIdx": [
+              10
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "我的老爷爷他还当过医生，到现在，他还是一名医生，只不过是村医生，我的祖先们也都是医生"
+            ],
+            "vehicleBeginIdx": [
+              0
+            ],
+            "vehicleEndIdx": [
+              41
+            ],
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          3
+        ],
+        "sentenceContent": [
+          "听爷爷说，老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "摹状",
+            "form": "直感",
+            "content": "摹视",
+            "conjunction": [
+              "满头大汗"
+            ],
+            "conjunctionBeginIdx": [
+              67
+            ],
+            "conjunctionEndIdx": [
+              70
+            ],
+            "tenor": [
+              "视觉"
+            ],
+            "tenorBeginIdx": [
+              -1
+            ],
+            "tenorEndIdx": [
+              -1
+            ],
+            "vehicle": [
+              "视觉"
+            ],
+            "vehicleBeginIdx": [
+              -1
+            ],
+            "vehicleEndIdx": [
+              -1
+            ],
+            "correct_text": null
+          },
+          {
+            "rhetoric": "引用",
+            "form": "转引",
+            "content": "话语",
+            "conjunction": [
+              "听爷爷说"
+            ],
+            "conjunctionBeginIdx": [
+              0
+            ],
+            "conjunctionEndIdx": [
+              3
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。"
+            ],
+            "vehicleBeginIdx": [
+              5
+            ],
+            "vehicleEndIdx": [
+              104
+            ],
+            "correct_text": null
+          },
+          {
+            "rhetoric": "反复",
+            "form": "连续反复",
+            "content": "词语",
+            "conjunction": [
+              "耕地"
+            ],
+            "conjunctionBeginIdx": [
+              30
+            ],
+            "conjunctionEndIdx": [
+              31
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "还总是到别人村里帮耕地，耕地挣钱"
+            ],
+            "vehicleBeginIdx": [
+              21
+            ],
+            "vehicleEndIdx": [
+              36
+            ],
+            "correct_text": null
+          },
+          {
+            "rhetoric": "反复",
+            "form": "间隔反复",
+            "content": "词语",
+            "conjunction": [
+              "挣钱"
+            ],
+            "conjunctionBeginIdx": [
+              18
+            ],
+            "conjunctionEndIdx": [
+              19
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "为了挣钱，还总是到别人村里帮耕地，耕地挣钱"
+            ],
+            "vehicleBeginIdx": [
+              16
+            ],
+            "vehicleEndIdx": [
+              36
+            ],
+            "correct_text": null
+          },
+          {
+            "rhetoric": "反复",
+            "form": "间隔反复",
+            "content": "词语",
+            "conjunction": [
+              "没有"
+            ],
+            "conjunctionBeginIdx": [
+              87
+            ],
+            "conjunctionEndIdx": [
+              88
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "因为那个时候什么都没有，也没有钱"
+            ],
+            "vehicleBeginIdx": [
+              78
+            ],
+            "vehicleEndIdx": [
+              93
+            ],
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          4
+        ],
+        "sentenceContent": [
+          "老爷爷也是电工，全村一千多人，只有他一个是电工。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "反复",
+            "form": "间隔反复",
+            "content": "词语",
+            "conjunction": [
+              "电工"
+            ],
+            "conjunctionBeginIdx": [
+              5
+            ],
+            "conjunctionEndIdx": [
+              6
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "老爷爷也是电工，全村一千多人，只有他一个是电工"
+            ],
+            "vehicleBeginIdx": [
+              0
+            ],
+            "vehicleEndIdx": [
+              22
+            ],
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          6
+        ],
+        "sentenceContent": [
+          "回来时，我的脚卡在自行车轮子里了，我哇的一声大哭了出来。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "摹状",
+            "form": "直感",
+            "content": "摹听",
+            "conjunction": [
+              "哇的一声"
+            ],
+            "conjunctionBeginIdx": [
+              18
+            ],
+            "conjunctionEndIdx": [
+              21
+            ],
+            "tenor": [
+              "听觉"
+            ],
+            "tenorBeginIdx": [
+              -1
+            ],
+            "tenorEndIdx": [
+              -1
+            ],
+            "vehicle": [
+              "听觉"
+            ],
+            "vehicleBeginIdx": [
+              -1
+            ],
+            "vehicleEndIdx": [
+              -1
+            ],
+            "correct_text": null
+          }
+        ]
+      }
+    ],
+    "rhetoricItems_pred": "{\"rhetoricItems\": [{\"sentenceIdx\": [0], \"sentenceContent\": [\"我有一个年纪很大，但却干过很多事的老爷爷，他的故事，说真的是十分精彩呀，他是我们村里我知道的最能干的人了！\"], \"rhetoricList\": [{\"rhetoric\": \"夸张\", \"form\": \"直接夸张\", \"content\": \"扩大夸张\", \"conjunction\": [], \"conjunctionBeginIdx\": [], \"conjunctionEndIdx\": [], \"tenor\": [\"老爷爷\"], \"tenorBeginIdx\": [17], \"tenorEndIdx\": [19], \"vehicle\": [\"他是我们村里我知道的最能干的人了！\"], \"vehicleBeginIdx\": [36], \"vehicleEndIdx\": [52], \"correct_text\": null}]}, {\"sentenceIdx\": [1], \"sentenceContent\": [\"听奶奶说，在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！\"], \"rhetoricList\": [{\"rhetoric\": \"引用\", \"form\": \"转引\", \"content\": \"话语\", \"conjunction\": [], \"conjunctionBeginIdx\": [], \"conjunctionEndIdx\": [], \"tenor\": [\"听奶奶说\"], \"tenorBeginIdx\": [0], \"tenorEndIdx\": [3], \"vehicle\": [\"在我爷爷还很小的时候，老爷爷他当过学校里教书的老师，不只教数学，而且还教语文，还是会很多东西，学问高的呢！\"], \"vehicleBeginIdx\": [5], \"vehicleEndIdx\": [57], \"correct_text\": null}]}, {\"sentenceIdx\": [2], \"sentenceContent\": [\"我的老爷爷他还当过医生，到现在，他还是一名医生，只不过是村医生，我的祖先们也都是医生，家里还有三四本祖传的手写医书呢！\"], \"rhetoricList\": [{\"rhetoric\": \"反复\", \"form\": null, \"content\": null, \"conjunction\": [\"医生\"], \"conjunctionBeginIdx\": [9], \"conjunctionEndIdx\": [10], \"tenor\": [], \"tenorBeginIdx\": [], \"tenorEndIdx\": [], \"vehicle\": [\"他还是一名医生，只不过是村医生，我的祖先们也都是医生，家里还有三四本祖传的手写医书呢！\"], \"vehicleBeginIdx\": [16], \"vehicleEndIdx\": [58], \"correct_text\": null}]}, {\"sentenceIdx\": [3], \"sentenceContent\": [\"听爷爷说，老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。\"], \"rhetoricList\": [{\"rhetoric\": \"摹状\", \"form\": \"直感\", \"content\": \"摹视\", \"conjunction\": [\"身上全都是泥\", \"满头大汗\"], \"conjunctionBeginIdx\": [55, 67], \"conjunctionEndIdx\": [60, 70], \"tenor\": [\"视觉\"], \"tenorBeginIdx\": [-1], \"tenorEndIdx\": [-1], \"vehicle\": [\"视觉\"], \"vehicleBeginIdx\": [-1], \"vehicleEndIdx\": [-1], \"correct_text\": null}, {\"rhetoric\": \"引用\", \"form\": \"转引\", \"content\": \"话语\", \"conjunction\": [], \"conjunctionBeginIdx\": [], \"conjunctionEndIdx\": [], \"tenor\": [\"听爷爷说\"], \"tenorBeginIdx\": [0], \"tenorEndIdx\": [3], \"vehicle\": [\"老爷爷在耕种的季季节，为了挣钱，还总是到别人村里帮耕地，耕地挣钱，总是忙到大半夜才回家，回来的时候，身上全都是泥，脸上也是，满头大汗，十分的辛苦，因为那个时候什么都没有，也没有钱，所以只能这样挣钱了。\"], \"vehicleBeginIdx\": [5], \"vehicleEndIdx\": [104], \"correct_text\": null}]}, {\"sentenceIdx\": [6], \"sentenceContent\": [\"回来时，我的脚卡在自行车轮子里了，我哇的一声大哭了出来。\"], \"rhetoricList\": [{\"rhetoric\": \"摹状\", \"form\": null, \"content\": null, \"conjunction\": [\"哇\"], \"conjunctionBeginIdx\": [18], \"conjunctionEndIdx\": [18], \"tenor\": [\"听觉\"], \"tenorBeginIdx\": [-1], \"tenorEndIdx\": [-1], \"vehicle\": [\"听觉\"], \"vehicleBeginIdx\": [-1], \"vehicleEndIdx\": [-1], \"correct_text\": null}]}]}"
+  }
+]

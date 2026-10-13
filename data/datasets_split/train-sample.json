@@ -1,0 +1,109 @@
+[
+    {
+    "idx": 0,
+    "essay_idx": 100,
+    "document": "是什么原理呢？我把心中的疑问告诉了妈妈。妈妈说，洗洁精含有表面活性剂，可以破坏液体的表面张力，被扰动的牛奶带动色素翻滚运动，进而绘制出美丽的图案。",
+    "sentenceList": [
+      "是什么原理呢？",
+      "我把心中的疑问告诉了妈妈。",
+      "妈妈说，洗洁精含有表面活性剂，可以破坏液体的表面张力，被扰动的牛奶带动色素翻滚运动，进而绘制出美丽的图案。"
+    ],
+    "grade": 5,
+    "teacherReview": {
+      "expressionScore": 8,
+      "expressionScoreStr": "A+",
+      "contentScore": 8,
+      "contentScoreStr": "A+",
+      "score": 8,
+      "scoreStr": "A+"
+    },
+    "rhetoricItems": [
+      {
+        "sentenceIdx": [
+          0
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "设问",
+            "form": "问答不连属",
+            "content": "问而不答",
+            "conjunction": [],
+            "conjunctionBeginIdx": [],
+            "conjunctionEndIdx": [],
+            "tenor": [
+              "是什么原理呢？"
+            ],
+            "tenorBeginIdx": [
+              0
+            ],
+            "tenorEndIdx": [
+              6
+            ],
+            "vehicle": [],
+            "vehicleBeginIdx": [],
+            "vehicleEndIdx": []
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          2
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "比拟",
+            "form": "动词",
+            "content": "拟人",
+            "conjunction": [],
+            "conjunctionBeginIdx": [],
+            "conjunctionEndIdx": [],
+            "tenor": [
+              "被扰动的牛奶"
+            ],
+            "tenorBeginIdx": [
+              27
+            ],
+            "tenorEndIdx": [
+              32
+            ],
+            "vehicle": [
+              "绘制"
+            ],
+            "vehicleBeginIdx": [
+              44
+            ],
+            "vehicleEndIdx": [
+              45
+            ]
+          },
+          {
+            "rhetoric": "引用",
+            "form": "转引",
+            "content": "话语",
+            "conjunction": [
+              "妈妈说"
+            ],
+            "conjunctionBeginIdx": [
+              0
+            ],
+            "conjunctionEndIdx": [
+              2
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "洗洁精含有表面活性剂，可以破坏液体的表面张力，被扰动的牛奶带动色素翻滚运动，进而绘制出美丽的图案。"
+            ],
+            "vehicleBeginIdx": [
+              4
+            ],
+            "vehicleEndIdx": [
+              52
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

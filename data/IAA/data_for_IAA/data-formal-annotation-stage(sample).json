@@ -1,0 +1,205 @@
+[
+    {
+    "idx": 1,
+    "essay_idx": 1,
+    "document": "去年暑假，我和爸爸妈妈一起去动物园玩。一进动物园大门我就被眼前的一番美妙景象深深吸引了。郁郁葱葱的树木，到处绽放的花朵，繁忙的人群，真是热闹极了。动物园可真大呀，一眼望不到边，我找到动物园的问询处，问工作人员要了一张导览图，我们的动物园之行便开始了。我们先来到了大象馆，那里的大象正在悠闲地散步，口渴了就到指定的区域，长长的留鼻子伸入水池中吸水，再卷起自己的长鼻子放入嘴巴，它们的样子的可爱极了！离开大象馆，第二站来到了我最喜欢的熊猫馆。熊猫是我国的国宝，一个个憨态可掬的熊猫，大大的眼睛，小小的的嘴巴，伴随着圆滚滚的身姿，活像一个黑白相间的大皮球。此时大熊猫们正在享用美味的竹子，而小熊猫们在一旁和同伴们欢快玩耍。我沉浸在这美妙的画面里，差点忘了时间。在爸爸妈妈的提醒下，我依依不舍地离开了熊猫馆，最后来到了孔雀生活的地方。孔雀们看上去很高傲，昂起长长的脖子，悠闲地走着。站在最前排的几个穿花裙子的小姐姐看到孔雀朝她们走来，立刻拉起裙摆吸引孔雀的注意。孔雀可能被鲜艳的色彩吸引住了，一下子就开屏了，像扇子一样五彩斑斓的尾巴美丽极了，游客们赞叹不已。很多游客拿起手机记录下这美好的画面。时间过得可真快啊，我还没有看完动物园里所有的动物，就天黑了。我恋恋不舍地离开了动物园，和爸爸妈妈约定下次再来玩。今天真是完美的一天呢！",
+    "sentenceList": [
+      "去年暑假，我和爸爸妈妈一起去动物园玩。",
+      "一进动物园大门我就被眼前的一番美妙景象深深吸引了。",
+      "郁郁葱葱的树木，到处绽放的花朵，繁忙的人群，真是热闹极了。",
+      "动物园可真大呀，一眼望不到边，我找到动物园的问询处，问工作人员要了一张导览图，我们的动物园之行便开始了。",
+      "我们先来到了大象馆，那里的大象正在悠闲地散步，口渴了就到指定的区域，长长的留鼻子伸入水池中吸水，再卷起自己的长鼻子放入嘴巴，它们的样子的可爱极了！",
+      "离开大象馆，第二站来到了我最喜欢的熊猫馆。",
+      "熊猫是我国的国宝，一个个憨态可掬的熊猫，大大的眼睛，小小的的嘴巴，伴随着圆滚滚的身姿，活像一个黑白相间的大皮球。",
+      "此时大熊猫们正在享用美味的竹子，而小熊猫们在一旁和同伴们欢快玩耍。",
+      "我沉浸在这美妙的画面里，差点忘了时间。",
+      "在爸爸妈妈的提醒下，我依依不舍地离开了熊猫馆，最后来到了孔雀生活的地方。",
+      "孔雀们看上去很高傲，昂起长长的脖子，悠闲地走着。",
+      "站在最前排的几个穿花裙子的小姐姐看到孔雀朝她们走来，立刻拉起裙摆吸引孔雀的注意。",
+      "孔雀可能被鲜艳的色彩吸引住了，一下子就开屏了，像扇子一样五彩斑斓的尾巴美丽极了，游客们赞叹不已。",
+      "很多游客拿起手机记录下这美好的画面。",
+      "时间过得可真快啊，我还没有看完动物园里所有的动物，就天黑了。",
+      "我恋恋不舍地离开了动物园，和爸爸妈妈约定下次再来玩。",
+      "今天真是完美的一天呢！"
+    ],
+    "rhetoricItems": [
+      {
+        "sentenceIdx": [
+          2
+        ],
+        "sentenceContent": [
+          "郁郁葱葱的树木，到处绽放的花朵，繁忙的人群，真是热闹极了。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "排比",
+            "form": "成分排比",
+            "content": "承接",
+            "conjunction": [
+              "......的......"
+            ],
+            "conjunctionBeginIdx": [
+              -1
+            ],
+            "conjunctionEndIdx": [
+              -1
+            ],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [
+              "郁郁葱葱的树木，到处绽放的花朵，繁忙的人群"
+            ],
+            "vehicleBeginIdx": [
+              0
+            ],
+            "vehicleEndIdx": [
+              20
+            ],
+            "quality": "正常",
+            "correct_text": null
+          },
+          {
+            "rhetoric": "摹状",
+            "form": "直感",
+            "content": "摹视",
+            "conjunction": [
+              "郁郁葱葱"
+            ],
+            "conjunctionBeginIdx": [
+              0
+            ],
+            "conjunctionEndIdx": [
+              3
+            ],
+            "tenor": [
+              "视觉"
+            ],
+            "tenorBeginIdx": [
+              -1
+            ],
+            "tenorEndIdx": [
+              -1
+            ],
+            "vehicle": [
+              "视觉"
+            ],
+            "vehicleBeginIdx": [
+              -1
+            ],
+            "vehicleEndIdx": [
+              -1
+            ],
+            "quality": "正常",
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          6
+        ],
+        "sentenceContent": [
+          "熊猫是我国的国宝，一个个憨态可掬的熊猫，大大的眼睛，小小的的嘴巴，伴随着圆滚滚的身姿，活像一个黑白相间的大皮球。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "比喻",
+            "form": "明喻",
+            "content": "实在物",
+            "conjunction": [
+              "活像"
+            ],
+            "conjunctionBeginIdx": [
+              43
+            ],
+            "conjunctionEndIdx": [
+              44
+            ],
+            "tenor": [
+              "熊猫"
+            ],
+            "tenorBeginIdx": [
+              0
+            ],
+            "tenorEndIdx": [
+              1
+            ],
+            "vehicle": [
+              "一个黑白相间的大皮球"
+            ],
+            "vehicleBeginIdx": [
+              45
+            ],
+            "vehicleEndIdx": [
+              54
+            ],
+            "quality": "正常",
+            "correct_text": null
+          },
+          {
+            "rhetoric": "摹状",
+            "form": "直感",
+            "content": "摹视",
+            "conjunction": [
+              "圆滚滚"
+            ],
+            "conjunctionBeginIdx": [
+              36
+            ],
+            "conjunctionEndIdx": [
+              38
+            ],
+            "tenor": [
+              "视觉"
+            ],
+            "tenorBeginIdx": [
+              -1
+            ],
+            "tenorEndIdx": [
+              -1
+            ],
+            "vehicle": [
+              "视觉"
+            ],
+            "vehicleBeginIdx": [
+              -1
+            ],
+            "vehicleEndIdx": [
+              -1
+            ],
+            "quality": "正常",
+            "correct_text": null
+          }
+        ]
+      },
+      {
+        "sentenceIdx": [
+          12
+        ],
+        "sentenceContent": [
+          "孔雀可能被鲜艳的色彩吸引住了，一下子就开屏了，像扇子一样五彩斑斓的尾巴美丽极了，游客们赞叹不已。"
+        ],
+        "rhetoricList": [
+          {
+            "rhetoric": "比喻",
+            "form": "明喻",
+            "content": "实在物",
+            "conjunction": [],
+            "conjunctionBeginIdx": [],
+            "conjunctionEndIdx": [],
+            "tenor": [],
+            "tenorBeginIdx": [],
+            "tenorEndIdx": [],
+            "vehicle": [],
+            "vehicleBeginIdx": [],
+            "vehicleEndIdx": [],
+            "quality": "正常",
+            "correct_text": null
+          }
+        ]
+      }
+    ],
+    "rhetoricItems_pred": "{\"rhetoricItems\": [{\"sentenceIdx\": [2], \"sentenceContent\": [\"郁郁葱葱的树木，到处绽放的花朵，繁忙的人群，真是热闹极了。\"], \"rhetoricList\": [{\"rhetoric\": \"摹状\", \"form\": \"直感\", \"content\": \"摹视\", \"conjunction\": [\"郁郁葱葱的\"], \"conjunctionBeginIdx\": [0], \"conjunctionEndIdx\": [4], \"tenor\": [\"视觉\"], \"tenorBeginIdx\": [-1], \"tenorEndIdx\": [-1], \"vehicle\": [\"视觉\"], \"vehicleBeginIdx\": [-1], \"vehicleEndIdx\": [-1], \"quality\": \"正常\", \"correct_text\": null}]}, {\"sentenceIdx\": [6], \"sentenceContent\": [\"熊猫是我国的国宝，一个个憨态可掬的熊猫，大大的眼睛，小小的的嘴巴，伴随着圆滚滚的身姿，活像一个黑白相间的大皮球。\"], \"rhetoricList\": [{\"rhetoric\": \"比喻\", \"form\": \"明喻\", \"content\": \"实在物\", \"conjunction\": [\"像\"], \"conjunctionBeginIdx\": [44], \"conjunctionEndIdx\": [44], \"tenor\": [\"熊猫\"], \"tenorBeginIdx\": [0], \"tenorEndIdx\": [1], \"vehicle\": [\"黑白相间的大皮球\"], \"vehicleBeginIdx\": [47], \"vehicleEndIdx\": [54], \"quality\": \"正常\", \"correct_text\": null}, {\"rhetoric\": \"排比\", \"form\": \"句子排比\", \"content\": \"承接\", \"conjunction\": [\".....的\"], \"conjunctionBeginIdx\": [-1], \"conjunctionEndIdx\": [-1], \"tenor\": [], \"tenorBeginIdx\": [], \"tenorEndIdx\": [], \"vehicle\": [\"憨态可掬的熊猫\", \"大大的眼睛\", \"小小的的嘴巴\"], \"vehicleBeginIdx\": [12, 20, 26], \"vehicleEndIdx\": [18, 24, 31], \"quality\": \"正常\", \"correct_text\": null}]}, {\"sentenceIdx\": [10], \"sentenceContent\": [\"孔雀们看上去很高傲，昂起长长的脖子，悠闲地走着。\"], \"rhetoricList\": [{\"rhetoric\": \"比拟\", \"form\": \"形容词\", \"content\": \"拟人\", \"conjunction\": [], \"conjunctionBeginIdx\": [], \"conjunctionEndIdx\": [], \"tenor\": [\"孔雀们\"], \"tenorBeginIdx\": [0], \"tenorEndIdx\": [2], \"vehicle\": [\"高傲\"], \"vehicleBeginIdx\": [7], \"vehicleEndIdx\": [8], \"quality\": \"正常\", \"correct_text\": null}]}, {\"sentenceIdx\": [12], \"sentenceContent\": [\"孔雀可能被鲜艳的色彩吸引住了，一下子就开屏了，像扇子一样五彩斑斓的尾巴美丽极了\"], \"rhetoricList\": [{\"rhetoric\": \"比喻\", \"form\": \"明喻\", \"content\": \"实在物\", \"conjunction\": [\"像\"], \"conjunctionBeginIdx\": [23], \"conjunctionEndIdx\": [23], \"tenor\": [\"尾巴\"], \"tenorBeginIdx\": [33], \"tenorEndIdx\": [34], \"vehicle\": [\"扇子\"], \"vehicleBeginIdx\": [24], \"vehicleEndIdx\": [25], \"quality\": \"正常\", \"correct_text\": null}]}]}"
+  }
+]
